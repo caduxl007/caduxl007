@@ -30,12 +30,11 @@ Here are some ideas to get you started:
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 -->
 
-<br>
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | HTML | CSS | JavaScript | PHP
-- 🌐 &nbsp; React | ReactNative | NodeJS
+- 🌐 &nbsp; React | ReactNative | NodeJS | TypeScript
 - 🛢 &nbsp; MySQL | Xampp | Docker | PostgreSql | MongoDB
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
 
