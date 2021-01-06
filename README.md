@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 &nbsp; <a href="mailto:eduardo2020dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-<!--⭐️ From [devSouvik](https://github.com/caduxl007) -->
+<!--⭐️ From [devSouvik](https://github.com/caduxl007) --> 
 
