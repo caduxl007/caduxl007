@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C | HTML | CSS | JavaScript | PHP
-- 🌐 &nbsp; React | ReactNative | NodeJS | TypeScript | NextJS | NestJS
+- 💻 &nbsp; HTML | CSS | JavaScript | TypeScript
+- 🌐 &nbsp; React | ReactNative | NodeJS | NextJS | NestJS
 - 🛢 &nbsp; MySQL | Xampp | Docker | PostgreSql | MongoDB
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
 
