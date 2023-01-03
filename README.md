@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp; HTML | CSS | JavaScript | TypeScript
 - 🌐 &nbsp; React | ReactNative | NodeJS | NextJS | NestJS
-- 🛢 &nbsp; MySQL | Xampp | Docker | PostgreSql | MongoDB
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio code | Git
 
 </br>
 
