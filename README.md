@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp; HTML | CSS | JavaScript | TypeScript
 - 🌐 &nbsp; React | ReactNative | NodeJS | NextJS | NestJS
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Git | GCP | Terraform | Devops | Docker | Tailwind
 
 </br>
 
